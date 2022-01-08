@@ -45,7 +45,7 @@
     display: inline-flex;
 }
  .nav-bar ul li a{
-    display: block;
+    display: flex;
     text-align: center;
     min-height: 10px;
     padding: 0 30px;
